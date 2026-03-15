@@ -11,6 +11,15 @@ The function returns matching records as a Pandas DataFrame.
 
 ---
 
+# Requirements
+
+import requests
+import pandas as pd
+import re
+
+---
+
+
 ## Getting Started (Notebook Workflow)
 
 Use the following in a Jupyter notebook to download the script from GitHub, import the search function, run a query, and view the results.
